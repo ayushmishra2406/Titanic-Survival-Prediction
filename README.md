@@ -59,7 +59,7 @@ The aim of this project is to build a Machine Learning model that predicts wheth
 ## Project Structure
 
 ```
-Titanic_Survival_Prediction
+Titanic Survival Prediction
 │
 ├── Dataset
 ├── screenshots
